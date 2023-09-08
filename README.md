@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alianama
 - 👀 I’m interested in Network and Programing
-- 🌱 I’m currently learning Python and Network Security
+- 🌱 I’m currently learning Javascript and Network Security
 - 💞️ I’m looking to collaborate on learning about ICT 
 - 📫 How to reach me add me on www.linkedin.com/in/alipurnamaalam
 
