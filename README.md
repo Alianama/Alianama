@@ -17,7 +17,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ali Purnama alam, IT Infrastructure & Network Engineer & Web Developer from Indonesia
+  Hi, I'm Ali Purnama alam, IT Infrastructure & Network Engineer & Junior Web Developer from Indonesia
   <br>
   <br>
   🔬 I'm currently studying at Pelita Bangsa University, Department of Information Engineering
