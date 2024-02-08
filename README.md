@@ -14,24 +14,18 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ali Purnama alam, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Ali Purnama alam, IT Infrastructure & Network Engineer & Web Developer from Indonesia
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🔬 I'm currently studying at Pelita Bangsa University, Department of Information Engineering
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  💻 I love anythingg about Technology and learn anythings about it
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  📚 I’m currently learning how to build Website with React.js and express.js
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  💬 Ask me anything about from <a href="https://github.com/Alianama/Alianama/issues" title="Issues">Here</a>
   <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: alipurnama69@gmail.com">alipurnama69@gmail.com</a>
 </p>
 
 <hr>
