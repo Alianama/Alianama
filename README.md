@@ -1,7 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Alianama.Alianama">
-<a href="https://github.com/Alianama?tab=followers">
+<div style="display: flex; align-items: center;">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Alianama.Alianama">
+  <a href="https://github.com/Alianama?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Alianama?style=flat&logo=github">
-</a>
+  </a>
+</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
