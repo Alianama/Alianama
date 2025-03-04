@@ -35,7 +35,8 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p style="text-align: center;" align="center" >
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  [![My Skills](https://skillicons.dev/icons?i=react,js&perline=3)](https://skillicons.dev)
+<!--   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
@@ -46,7 +47,7 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code> -->
 </p>
 <hr>
 
