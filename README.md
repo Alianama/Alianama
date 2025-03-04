@@ -34,8 +34,11 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-
-  ![Tech Stack](https://skillicons.dev/icons?i=react,js,html,css,tailwind,ts,vite,webstorm,nodejs,express,git,linux,mysql,npm,postman,py,bash)
+<div align-"center" >
+ ![Tech Stack](https://skillicons.dev/icons?i=react,js,html,css,tailwind,ts,vite,webstorm,nodejs,express,git,linux,mysql,npm,postman,py,bash)
+  
+</div>
+ 
 <!--   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
