@@ -5,16 +5,12 @@
 </h1>
 
 <h5 align="center">
-  <code>
     <a href="https://www.linkedin.com/in/alipurnamaalam/" title="LinkedIn Profile">
       <img width="22" src="images/linkedin.svg"> LinkedIn
     </a>
-  </code>
-  <code>
     <a href="https://www.instagram.com/alianama_/" title="Instagram Profile">
       <img width="22" src="images/instagram.svg"> Instagram
     </a>
-  </code>
 </h5>
 <br>
 
@@ -39,7 +35,7 @@
 
 ---
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Tech Stack 🔥</h2>
 <br>
 
 <div align="center">
