@@ -8,7 +8,8 @@
     <a href="https://www.linkedin.com/in/alipurnamaalam/" title="LinkedIn Profile">
       <img width="22" src="images/linkedin.svg"> LinkedIn
     </a>
-    <br> <!-- Menambah baris baru -->
+    <br>
+    <br>
     <a href="https://www.instagram.com/alianama_/" title="Instagram Profile">
       <img width="22" src="images/instagram.svg"> Instagram
     </a>
